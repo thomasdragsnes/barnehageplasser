@@ -1,0 +1,14 @@
+[
+  {
+    "type": "FieldError",
+    "message": "Incomplete or unknown field value",
+    "kindergarten": "Hoff terrasse barnehage",
+    "region": "Ullern",
+    "lastUpdated": "13.January 2025",
+    "field": {
+      "count": 4,
+      "type": "unknown",
+      "date": "October 2024"
+    }
+  }
+]

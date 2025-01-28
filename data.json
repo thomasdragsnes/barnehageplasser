@@ -1,0 +1,306 @@
+[
+  {
+    "region": "Grünerløkka",
+    "lastUpdated": "24.January 2025",
+    "kindergarten": "Bellevue gård barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "now"
+  },
+  {
+    "region": "Grünerløkka",
+    "lastUpdated": "24.January 2025",
+    "kindergarten": "Sophies hage - Rosenhoff",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "now"
+  },
+  {
+    "region": "Nordre Aker",
+    "lastUpdated": "27.January 2025",
+    "kindergarten": "Amigos Småen familiebarnehage",
+    "spots": 2,
+    "ageGroup": "under 3 years",
+    "availabilityDate": "January 2025"
+  },
+  {
+    "region": "Nordre Aker",
+    "lastUpdated": "27.January 2025",
+    "kindergarten": "Bukken Bruse barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "March 2025"
+  },
+  {
+    "region": "Nordre Aker",
+    "lastUpdated": "27.January 2025",
+    "kindergarten": "Maridalen barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "January 2025"
+  },
+  {
+    "region": "Nordre Aker",
+    "lastUpdated": "27.January 2025",
+    "kindergarten": "Maridalen barnehage",
+    "spots": 1,
+    "ageGroup": "under 3 years",
+    "availabilityDate": "January 2025"
+  },
+  {
+    "region": "Nordre Aker",
+    "lastUpdated": "27.January 2025",
+    "kindergarten": "Norlandia Gaustadskogen barnehage",
+    "spots": 4,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "January 2025"
+  },
+  {
+    "region": "Nordre Aker",
+    "lastUpdated": "27.January 2025",
+    "kindergarten": "SiO Bamsebo barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "January 2025"
+  },
+  {
+    "region": "Nordre Aker",
+    "lastUpdated": "27.January 2025",
+    "kindergarten": "Universitetets barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "January 2025"
+  },
+  {
+    "region": "Nordstrand",
+    "lastUpdated": "21.January 2025",
+    "kindergarten": "Nedre Bekkelaget barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "November 2025"
+  },
+  {
+    "region": "St. Hanshaugen",
+    "lastUpdated": "13.January 2025",
+    "kindergarten": "Tusentrippen barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "now"
+  },
+  {
+    "region": "St. Hanshaugen",
+    "lastUpdated": "13.January 2025",
+    "kindergarten": "Hausmannsgate barnehage",
+    "spots": 3,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "now"
+  },
+  {
+    "region": "St. Hanshaugen",
+    "lastUpdated": "13.January 2025",
+    "kindergarten": "Hammersborg barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "now"
+  },
+  {
+    "region": "Stovner",
+    "lastUpdated": "14.January 2025",
+    "kindergarten": "Vestliberget barnehage",
+    "spots": 3,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "now"
+  },
+  {
+    "region": "Stovner",
+    "lastUpdated": "14.January 2025",
+    "kindergarten": "Vestlikollen barnehage",
+    "spots": 1,
+    "ageGroup": "under 3 years",
+    "availabilityDate": "now"
+  },
+  {
+    "region": "Stovner",
+    "lastUpdated": "14.January 2025",
+    "kindergarten": "Vestlikollen barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "now"
+  },
+  {
+    "region": "Stovner",
+    "lastUpdated": "14.January 2025",
+    "kindergarten": "Vestlitoppen barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "now"
+  },
+  {
+    "region": "Søndre Nordstrand",
+    "lastUpdated": "10.December 2024",
+    "kindergarten": "Bjørnebo barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "now"
+  },
+  {
+    "region": "Søndre Nordstrand",
+    "lastUpdated": "10.December 2024",
+    "kindergarten": "Elverhøy barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "now"
+  },
+  {
+    "region": "Søndre Nordstrand",
+    "lastUpdated": "10.December 2024",
+    "kindergarten": "Kantarellen barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "now"
+  },
+  {
+    "region": "Søndre Nordstrand",
+    "lastUpdated": "10.December 2024",
+    "kindergarten": "Lofsrud barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "now"
+  },
+  {
+    "region": "Søndre Nordstrand",
+    "lastUpdated": "10.December 2024",
+    "kindergarten": "Prinsdalsbråten barnehage",
+    "spots": 1,
+    "ageGroup": "under 3 years",
+    "availabilityDate": "now"
+  },
+  {
+    "region": "Søndre Nordstrand",
+    "lastUpdated": "10.December 2024",
+    "kindergarten": "Prinsdalsbråten barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "now"
+  },
+  {
+    "region": "Søndre Nordstrand",
+    "lastUpdated": "10.December 2024",
+    "kindergarten": "Åstun barnehage",
+    "spots": 3,
+    "ageGroup": "under 3 years",
+    "availabilityDate": "now"
+  },
+  {
+    "region": "Ullern",
+    "lastUpdated": "13.January 2025",
+    "kindergarten": "Bikuben barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "now"
+  },
+  {
+    "region": "Ullern",
+    "lastUpdated": "13.January 2025",
+    "kindergarten": "Lilleaker barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "now"
+  },
+  {
+    "region": "Ullern",
+    "lastUpdated": "13.January 2025",
+    "kindergarten": "Hoff terrasse barnehage",
+    "spots": 4,
+    "ageGroup": "unknown",
+    "availabilityDate": "October 2024"
+  },
+  {
+    "region": "Ullern",
+    "lastUpdated": "13.January 2025",
+    "kindergarten": "Tørtberg Kanvas-barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "December 2025"
+  },
+  {
+    "region": "Vestre Aker",
+    "lastUpdated": "13.January 2025",
+    "kindergarten": "Diakonhjemmet barnehage Borgenveien",
+    "spots": 2,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "January 2025"
+  },
+  {
+    "region": "Vestre Aker",
+    "lastUpdated": "13.January 2025",
+    "kindergarten": "Diakonhjemmet barnehage Steinerud",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "01.03.2025"
+  },
+  {
+    "region": "Vestre Aker",
+    "lastUpdated": "13.January 2025",
+    "kindergarten": "Diakonhjemmet barnehage Steinerud",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "01.03.2025"
+  },
+  {
+    "region": "Vestre Aker",
+    "lastUpdated": "13.January 2025",
+    "kindergarten": "Huseby barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "January 2025"
+  },
+  {
+    "region": "Vestre Aker",
+    "lastUpdated": "13.January 2025",
+    "kindergarten": "Jarbakken barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "January 2025"
+  },
+  {
+    "region": "Vestre Aker",
+    "lastUpdated": "13.January 2025",
+    "kindergarten": "Måltrosten barnehage",
+    "spots": 4,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "January 2025"
+  },
+  {
+    "region": "Vestre Aker",
+    "lastUpdated": "13.January 2025",
+    "kindergarten": "Norlandia Tomms Hytter friluftsbarnehage",
+    "spots": 3,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "January 2025"
+  },
+  {
+    "region": "Østensjø",
+    "lastUpdated": "28.January 2025",
+    "kindergarten": "Manglerud barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "March 2025"
+  },
+  {
+    "region": "Østensjø",
+    "lastUpdated": "28.January 2025",
+    "kindergarten": "Holtet barnehage",
+    "spots": 2,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "February 2025"
+  },
+  {
+    "region": "Østensjø",
+    "lastUpdated": "28.January 2025",
+    "kindergarten": "Husmannsplassen barnehage",
+    "spots": 1,
+    "ageGroup": "over 3 years",
+    "availabilityDate": "January 2025"
+  }
+]
