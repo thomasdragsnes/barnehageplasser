@@ -21,7 +21,11 @@
     "axios": "^1.7.9",
     "cheerio": "^1.0.0",
     "dotenv": "^16.4.7",
+    "mongodb": "^6.13.0",
+    "mongoose": "^8.10.0",
     "node-cron": "^3.0.3",
-    "puppeteer": "^24.1.1"
+    "node-fetch": "^2.7.0",
+    "puppeteer": "^24.1.1",
+    "string-similarity": "^4.0.4"
   }
 }
