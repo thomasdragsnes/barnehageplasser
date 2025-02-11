@@ -29,7 +29,10 @@ const KindergartenSchema = new mongoose.Schema({
   // Basic info (from first API)
   orgnr: { type: String, unique: true },
   navn: { type: String, required: true },
-  koordinatLatLng: [Number],
+  koordinatLatLng: {
+    type: [Number],
+    index: '2dsphere' // Define the index here only
+  },
   fylkesnummer: String,
   kommunenummer: String,
   
@@ -80,5 +83,6 @@ const KindergartenSchema = new mongoose.Schema({
   // Spot history
   spotHistory: [SpotHistorySchema]
 });
+
 
 module.exports = mongoose.model("Kindergarten", KindergartenSchema);
