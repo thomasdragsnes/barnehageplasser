@@ -1,5 +1,27 @@
-# https://git-scm.com/docs/gitignore
-# https://help.github.com/articles/ignoring-files
-# Example .gitignore files: https://github.com/github/gitignore
-/bower_components/
-/node_modules/
+# Backend
+backend/.env
+backend/node_modules
+backend/dist
+
+# iOS
+ios/.DS_Store
+ios/*/build/
+ios/*.pbxuser
+ios/!default.pbxuser
+ios/*.mode1v3
+ios/!default.mode1v3
+ios/*.mode2v3
+ios/!default.mode2v3
+ios/*.perspectivev3
+ios/!default.perspectivev3
+ios/xcuserdata
+ios/*.xccheckout
+ios/*.moved-aside
+ios/DerivedData
+ios/*.hmap
+ios/*.ipa
+ios/*.xcuserstate
+ios/.idea/
+ios/*.swp
+ios/*.swo
+ios/Pods/
